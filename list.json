@@ -2,8 +2,8 @@
   "result" : "Success",
   "data": [
     {
-      "imgmodel": "gemini-1.5-flash-001",
-      "textmodel": "gemini-1.5-pro-002"
+      "imgmodel": "gemini-1.5-flash-002",
+      "textmodel": "gemini-1.5-pro-001"
     }
   ],
   "error": ""
