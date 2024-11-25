@@ -4,16 +4,7 @@
     {
       "imgmodel": "gemini-1.5-flash-001",
       "textmodel": "gemini-1.5-pro-001",
-      "prompt": "
-      @{
-        \"name\": \"\",
-        \"category\": \"\",
-        \"subcategory\": \"\",
-        \"description\": \"\",
-        \"benefits\": \"\"
-      }@
-      All Content only in above type Json format and this content generate by already image convert to text use just analysis previous content then answer it and don't hightlight using \"*\" ok if you are not get content just value set empty string and content not use htmltags start @ and end @
-      please give useful information"
+      "prompt": "@{ \"name\": \"\", \"category\": \"\", \"subcategory\": \"\", \"description\": \"\", \"benefits\": \"\" }@ All Content only in above type Json format and this content generate by already image convert to text use just analysis previous content then answer it and don't highlight using \"*\" ok if you are not get content just value set empty string and content not use htmltags start @ and end @ please give useful information"
     }
   ],
   "error": ""
